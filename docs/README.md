@@ -1,3 +1,3 @@
-PHI Holdings Wallet
+Kojib Wallet
 
-https://phi.holdings
+https://wallet.kojib.com
